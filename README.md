@@ -4,9 +4,9 @@ http://webpack.github.io/docs/tutorials/getting-started/
 
 # Installation
 
-npm install webpack -g
-npm install webpack-dev-server -g
-npm install
+$ npm install webpack -g
+$ npm install webpack-dev-server -g
+$ npm install
 
 # Dev server with watch
 
