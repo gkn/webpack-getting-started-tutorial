@@ -1,0 +1,19 @@
+{
+  "name": "webpack-getting-started-tutorial",
+  "version": "1.0.0",
+  "description": "from webpack author site",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gkn/webpack-getting-started-tutorial.git"
+  },
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gs",
+  "license": "ISC"
+}
